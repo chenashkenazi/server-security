@@ -1,0 +1,13 @@
+{
+  "name": "server-security",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "config": "^3.3.6",
+    "crypto": "^1.0.1",
+    "file-type": "^16.5.3",
+    "helmet": "^4.6.0",
+    "moment": "^2.29.1"
+  }
+}
